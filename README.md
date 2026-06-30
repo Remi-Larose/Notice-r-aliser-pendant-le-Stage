@@ -1,1 +1,1 @@
-# Voici toutes les notice que j'ai pu réaliser pendant mon stage, la notice yeastar et NAS à distance on été réaliser a l'aide de Leo Sadoev.
+# Voici toutes les notice que j'ai pu réaliser pendant mon stage, la notice yeastar et NAS à distance on été réaliser a l'aide de Leo Sadoev. Il y a aussi le récapitulatif de chacune de mes journée pendant les 8semaines.
